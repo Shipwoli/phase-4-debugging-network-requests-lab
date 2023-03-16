@@ -70,4 +70,4 @@ developing your own process.
 
 - Donate a toy to Goodwill (and delete it from our database)
 
-  - How I debugged:
+  - How I debugged: I added destroy in the routes and create routes for destroy in the controller
